@@ -1,0 +1,2 @@
+# SEVENQFOUR
+An app to create and view previous golf scorecards, in addition to:  Tracking time to finish games Automatic course name retrieval via GPS Course pars, ratings, slopes Handicap calculation Various player statistics (wins, par rate, best games, etc) The current application is still under development, and the current stage mainly tests the integrity of the interface and the correctness of logical operations. If you encounter problems during development, please contact me.
